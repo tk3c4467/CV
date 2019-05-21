@@ -34,13 +34,14 @@ height:1440px;
 	border-bottom: 4px solid white;
 	margin-left:2%;
 	color:#f6ea8c; 
-	height: 15%;
+	height: 17%;
 	margin-right:2%; 
 }
 #skill{
 	color:#f6ea8c;
 	border-bottom:4px solid white; 
-	width:20%;
+	width:30%;
+
 }
 .listSkill{
   display: flex;
@@ -107,13 +108,14 @@ height:1440px;
 	border-bottom: 4px solid white;
 	margin-left:2%;
 	color:#f6ea8c; 
-	height: 17%;
+	height: 18%;
 	margin-right:2%; 
 }
  #experience{
 	margin-top:2%; 
 	border-bottom: 4px solid white;
 	width: 25%;
+
 }
 .social img{
 	float:left;
